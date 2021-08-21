@@ -1,4 +1,4 @@
-# Github flow
+# GITHUB FLOW
 
 ## A simple github flow
 
