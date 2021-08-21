@@ -1,6 +1,6 @@
 # GITHUB FLOW
 
-## A simple github flow
+> ## A simple github flow
 
 - [x] Elements 1
 - [x] Elements 2
